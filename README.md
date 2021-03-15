@@ -28,3 +28,4 @@ I thought about developing a microservice structure dockerized in order to ensur
 There are a total of 11 services used by the app. 
 A chatbot was developed using python, tensorflow and flask trained using Machine Learning (Deeplearning) and a custom dataset collected by me.
 I containerized custom dockers for the mySQL databases.
+Security is managed by OKTA service to assure a solid system. (I custom crafted security in my previous projects)
