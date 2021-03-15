@@ -7,7 +7,7 @@
 
 all services deployed on dockers sql aswell enjoy it at horaetu.shop
 
-Being hosted wit a free plan in the future you may experience some problem in using the app. 
+Being hosted with a free plan in the future you may experience some problem in using the app. 
 For this reason I will give you instruction to deploy the app locally and test it.
 
 Final Project IRONHACK - HORAETU shop online
