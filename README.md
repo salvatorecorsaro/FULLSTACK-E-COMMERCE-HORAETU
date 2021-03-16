@@ -75,6 +75,13 @@ this way it will automatically connect to the database and the other services on
 - you will have to populate the dbs with the script provided and insert custom database credential on the app properties in order to proceed.
 
 
+For any question or idea you may contact me by writing an email to dev@horaetu.shop 
+
+Thanks for visiting my project
+
+Salvatore Corsaro
+
+
 
 
 
