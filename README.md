@@ -66,8 +66,13 @@ Security is managed by OKTA service to assure a solid system. (I custom crafted 
 
 ##Instructions for local deploy:
 
-For a fast test local it's possible to just mount the front service by downloading the angular project and make it run locally on port 4200. ( command: ng serve)
+- For a fast test local it's possible to just mount the front service by downloading the angular project and make it run locally on port 4200. ( command: ng serve)
 this way it will automatically connect to the database and the other services on the cloud.
+
+- If you want to deploy all the project locally:
+- You can use the script I provided in order to download all the folders from their git repository.
+- Then you will have to set you the path accordinly to where you decide to host the services.
+- you will have to populate the dbs with the script provided and insert custom database credential on the app properties in order to proceed.
 
 
 
