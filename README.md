@@ -20,18 +20,25 @@ Final Project IRONHACK - HORAETU shop online
 
 
 https://github.com/salvatorecorsaro/eureka-HORAE
+Eureka server for discover purposes
 
 https://github.com/salvatorecorsaro/catalogue-HORAE
+Service that manage operation with the product database
 
 https://github.com/salvatorecorsaro/geo-HORAE
+Service that manage localization information used by the app
 
 https://github.com/salvatorecorsaro/shop-HORAE
+Service that manage the chechout and order retrieval operations
 
 https://github.com/salvatorecorsaro/chatbot-HORAE
+A python REST webapp that implement a simple deeplearning chatbot to assist clients
 
 https://github.com/salvatorecorsaro/front_HORAETU
+The front of the app developed using angular
 
 https://github.com/salvatorecorsaro/gateway-HORAE
+A gateway service developed using spring-cloud-gateway to work as the main entry point for our services from the front
 
 There are a total of 11 services used by the app.
 
