@@ -36,7 +36,7 @@ There are a total of 11 services used by the app.
 In this project I aimed to develop an ecommerce webapp.
 Horaetu is a brand I created for this project it comes from the greek concept of HORAE (seasons) and tu (you), the brand offer products to help you along the different stages of everyone life.
 
-![](https://i.ibb.co/PD9T6p6/checkou21.png)
+![](https://i.ibb.co/VWqwXF0/checkoouthoraes.png)
 
 ![](https://i.ibb.co/1MLx9XJ/checkouthorae.png)
 
