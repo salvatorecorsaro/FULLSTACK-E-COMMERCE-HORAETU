@@ -7,6 +7,8 @@
 
 all services deployed on dockers sql aswell enjoy it at http://horaetu.herokuapp.com/
 
+The services are hosted on heroku and with the plan Iḿ currently using they may go sleep if not being requested for 30+ minutes. so the first call may be slow to respond but after that it will go up and react as designed.
+
 Being hosted with a free plan in the future you may experience some problem in using the app. 
 For this reason I will give you instruction to deploy the app locally and test it.
 
@@ -44,7 +46,7 @@ Security is managed by OKTA service to assure a solid system. (I custom crafted 
 For a fast test local it's possible to just mount the front service by downloading the angular project and make it run locally on port 4200. ( command: ng serve)
 this way it will automatically connect to the database and the other services on the cloud.
 
-The services are hosted on heroku and with the plan Iḿ currently using they may go sleep if not being requested for 30+ minutes. so the first call may be slow to respond but after that it will go up and react as designed.
+
 
 
 
