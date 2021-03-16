@@ -29,6 +29,8 @@ https://github.com/salvatorecorsaro/front_HORAETU
 
 https://github.com/salvatorecorsaro/gateway-HORAE
 
+There are a total of 11 services used by the app.
+
 (![image](https://user-images.githubusercontent.com/55556636/111147577-ee01ab80-858a-11eb-94d5-c18c6df430ca.png)
 
 In this project I aimed to develop an ecommerce webapp.
@@ -40,7 +42,7 @@ Horaetu is a brand I created for this project it comes from the greek concept of
 
 The idea of HORAETU the logo and the products you will see are all originally created for this project.
 I thought about developing a microservice structure dockerized in order to ensure encapsulation and agile development.
-There are a total of 11 services used by the app.
+
 
 ![](https://i.ibb.co/JHRnmLS/aihoraetu.png)
 
