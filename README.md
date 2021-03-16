@@ -76,7 +76,7 @@ this way it will automatically connect to the database and the other services on
 
 ![](https://i.ibb.co/dLcJkcX/Artboard-1-4x.png)
 
-For any question or idea you may contact me by writing an email to dev@horaetu.shop 
+For any question or idea you may contact me by writing an email to scorsaro@nondualdev.com
 
 Thanks for visiting my project
 
