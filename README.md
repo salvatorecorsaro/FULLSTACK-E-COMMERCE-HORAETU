@@ -3,9 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/55556636/111149851-b0eae880-858d-11eb-97fa-14f072a1d263.png)
 
+In this project I aimed to develop an ecommerce webapp.
+Horaetu is a brand I created for this project it comes from the greek concept of HORAE (seasons) and tu (you), the brand offer products to help you along the different stages of everyone life.
+The idea of HORAETU the logo and the products you will see are all originally created for this project.
+
 ![](https://i.ibb.co/jZFCNYF/horaetu2.png)
 
-all services deployed on dockers sql aswell enjoy it at http://horaetu.herokuapp.com/
+All services deployed on heroku, sql are dockerized on a linode server as well as the chatbot microservice dockerized on linode, you can enjoy the result by visiting the angular front hosted at http://horaetu.herokuapp.com/
 
 The services are hosted on heroku and with the plan Iḿ currently using they may go sleep if not being requested for 30+ minutes. so the first call may be slow to respond but after that it will go up and react as designed.
 
@@ -33,14 +37,13 @@ There are a total of 11 services used by the app.
 
 (![image](https://user-images.githubusercontent.com/55556636/111147577-ee01ab80-858a-11eb-94d5-c18c6df430ca.png)
 
-In this project I aimed to develop an ecommerce webapp.
-Horaetu is a brand I created for this project it comes from the greek concept of HORAE (seasons) and tu (you), the brand offer products to help you along the different stages of everyone life.
+A few images of the webapp deployed
 
 ![](https://i.ibb.co/VWqwXF0/checkoouthoraes.png)
 
 ![](https://i.ibb.co/1MLx9XJ/checkouthorae.png)
 
-The idea of HORAETU the logo and the products you will see are all originally created for this project.
+
 I thought about developing a microservice structure dockerized in order to ensure encapsulation and agile development.
 
 
