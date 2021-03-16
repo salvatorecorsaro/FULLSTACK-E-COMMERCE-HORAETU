@@ -74,6 +74,7 @@ this way it will automatically connect to the database and the other services on
 - Then you will have to set you the path accordinly to where you decide to host the services.
 - you will have to populate the dbs with the script provided and insert custom database credential on the app properties in order to proceed.
 
+![](https://i.ibb.co/dLcJkcX/Artboard-1-4x.png)
 
 For any question or idea you may contact me by writing an email to dev@horaetu.shop 
 
