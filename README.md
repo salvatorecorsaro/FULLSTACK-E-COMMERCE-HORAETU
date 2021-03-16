@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/55556636/111149851-b0eae880-858d-11eb-97fa-14f072a1d263.png)
 
 In this project I aimed to develop an ecommerce webapp.
-Horaetu is a brand I created for this project it comes from the greek concept of HORAE (seasons) and tu (you), the brand offer products to help you along the different stages of everyone life.
+Horaetu is a brand I created for this project it comes from the greek concept of HORAE (seasons) and TU (you), the brand offer products to help you along the different stages of everyone life.
 The idea of HORAETU the logo and all the products you will see are originally created for this project.
 
 ![](https://i.ibb.co/jZFCNYF/horaetu2.png)
